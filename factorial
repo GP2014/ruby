@@ -1,0 +1,6 @@
+puts "Enter the number"
+num=gets.to_i
+
+while(num==1)
+
+end
